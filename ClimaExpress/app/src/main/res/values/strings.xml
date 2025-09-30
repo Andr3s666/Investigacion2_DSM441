@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ClimaExpress</string>
+    <!-- Aqui va la parteb del clima actual -->
+    <string name="icono_clima">Icono del clima</string>
+    <string name="descripcion">Descripción</string>
+    <string name="temperatura_placeholder">--°C</string>
+    <!-- Aqui es para el pronóstico -->
+    <string name="fecha">Fecha</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="lista_pronostico">Lista de pronóstico</string>
+    <string name="ciudad">Ciudad</string>
+
+    <!-- Mensajes de error -->
+    <string name="error_clima">Error al obtener el clima</string>
+    <string name="error_red">Sin conexión o error de red</string>
+    <string name="cargando">Cargando...</string>
+</resources>
